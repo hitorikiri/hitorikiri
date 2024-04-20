@@ -3,9 +3,8 @@ INTRODUCTION
 - I’m interested in writing, drawing, and (Toyohou.se) coding.
 - I’m currently learning HTML & Bootstrap
 - You can find me on...
-    - Toyhou.se @Lymelle (main) and @Lymle (code)
-    - Deviantart @Lymmle
-    - Ko-Fi @Lymelle
+    - Toyhou.se @Cumulofare (main) and @Lymle (code account)
+    - Ko-Fi @Cumulofare
     
 IMPORTANT NOTES
 - MY CODES ARE MEANT TO BE USED ON TOYHOU.SE. DO NOT USE THEM ANYWHERE ELSE.
